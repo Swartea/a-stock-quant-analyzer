@@ -14,6 +14,16 @@ python quant_analyzer_v2.py 001696 宗申动力
 # → 打开看: 能不能买 / 买多少 / 什么价格止盈止损
 ```
 
+## 报告长啥样
+
+桌面端截图（完整版，含4个图表 + 雷达图 + 三情景表）：
+
+![HTML 报告桌面版](assets/screenshot-report-desktop.png)
+
+手机端渲染效果（iPhone 14 宽）：
+
+![HTML 报告手机版](assets/screenshot-report-mobile.png)
+
 ## 安装
 
 ```bash
