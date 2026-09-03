@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# venv
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# 测试产物
+reports/
+*.html
+test_*.py
+
+# 注意: README.md 和 LICENSE 不会被忽略 (本项目必须有 README.md)
+# 排除 examples/ 里的 .md (但保留 examples/README.md)
+examples/*.md
+!examples/README.md
+
+# 凭据 / 本地配置
+.env
+*.local
+*_secret*
+*.key
