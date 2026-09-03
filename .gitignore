@@ -1,3 +1,4 @@
+.git/
 # Python
 __pycache__/
 *.pyc
